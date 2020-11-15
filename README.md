@@ -1,2 +1,2 @@
 # Sentimental-Analysis-using-MultinomialNB
-To find sentiment value from plays tore customer reviews using  MultinomialNB
+To find postive negative and netural sentiment value from plays store customer reviews using  MultinomialNB
